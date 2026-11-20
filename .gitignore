@@ -1,0 +1,25 @@
+# Modelo entrenado: se distribuye por separado por su tamaño.
+modelo_emociones_distilbert/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit y secretos locales
+.streamlit/secrets.toml
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
