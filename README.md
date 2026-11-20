@@ -114,7 +114,7 @@ También se puede descargar el repositorio como ZIP desde GitHub y extraerlo en 
 ### Paso 2. Ingresar a la carpeta del proyecto
 
 ```bash
-cd detector_emociones
+cd detector-emociones-distilbert
 ```
 
 ### Paso 3. Crear un entorno virtual
